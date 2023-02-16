@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">fitnessApp</string>
+    <string name="signuptext"> Don\'t have an account? <font color='#FFFBF6'> Sign up </font></string>
+    <string name="admin">Log In as Administrator</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confpass">Confirm password</string>
+    <string name="registration">Registration</string>
+    <string-array name="trainings">
+        <item>Group training</item>
+        <item>Personal training</item>
+        <item>Cardio training</item>
+        <item>Yoga session</item>
+    </string-array>
+    <string name="choose">Choose one</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
